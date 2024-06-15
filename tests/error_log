@@ -1,0 +1,8 @@
+[18-Apr-2024 08:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/buildererp/public_html/backend/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/tests/TestCase.php on line 7
+[18-Apr-2024 08:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/buildererp/public_html/backend/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/tests/TestCase.php on line 7

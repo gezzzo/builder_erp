@@ -1,0 +1,20 @@
+[18-Apr-2024 08:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/buildererp/public_html/backend/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/bootstrap/app.php on line 14
+[18-Apr-2024 08:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/buildererp/public_html/backend/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/bootstrap/app.php on line 14
+[29-Apr-2024 00:35:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/buildererp/public_html/backend/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/bootstrap/app.php on line 14
+[29-Apr-2024 00:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/buildererp/public_html/backend/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/bootstrap/app.php on line 14
+[29-Apr-2024 00:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/buildererp/public_html/backend/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/bootstrap/app.php on line 14

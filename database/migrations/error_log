@@ -1,0 +1,40 @@
+[29-Apr-2024 00:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[29-Apr-2024 00:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[29-Apr-2024 00:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[29-Apr-2024 00:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[29-Apr-2024 00:35:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[29-Apr-2024 00:35:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[29-Apr-2024 00:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Apr-2024 00:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Apr-2024 00:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Apr-2024 00:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/buildererp/public_html/backend/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/database/migrations/2014_10_12_000000_create_users_table.php on line 7

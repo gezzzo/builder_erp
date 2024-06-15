@@ -1,0 +1,60 @@
+[11-Apr-2024 22:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/buildererp/public_html/backend/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/User.php on line 11
+[11-Apr-2024 22:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/RolePermission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/RolePermission.php on line 8
+[11-Apr-2024 22:16:18 UTC] PHP Fatal error:  Uncaught Error: Class "Stancl\Tenancy\Database\Models\Tenant" not found in /home/buildererp/public_html/backend/app/Models/Tenant.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Tenant.php on line 10
+[11-Apr-2024 22:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/UserRole.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/UserRole.php on line 8
+[11-Apr-2024 22:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/UserRole.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/UserRole.php on line 8
+[11-Apr-2024 22:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/Role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Role.php on line 8
+[11-Apr-2024 22:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/Permission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Permission.php on line 8
+[11-Apr-2024 22:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/Role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Role.php on line 8
+[11-Apr-2024 22:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/Permission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Permission.php on line 8
+[11-Apr-2024 22:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/RolePermission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/RolePermission.php on line 8
+[11-Apr-2024 22:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/buildererp/public_html/backend/app/Models/RolePermission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/RolePermission.php on line 8
+[11-Apr-2024 22:16:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/buildererp/public_html/backend/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/User.php on line 11
+[11-Apr-2024 22:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/buildererp/public_html/backend/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/User.php on line 11
+[11-Apr-2024 22:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "Stancl\Tenancy\Database\Models\Tenant" not found in /home/buildererp/public_html/backend/app/Models/Tenant.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Tenant.php on line 10
+[11-Apr-2024 22:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "Stancl\Tenancy\Database\Models\Tenant" not found in /home/buildererp/public_html/backend/app/Models/Tenant.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/buildererp/public_html/backend/app/Models/Tenant.php on line 10
